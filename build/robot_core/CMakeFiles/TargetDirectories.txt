@@ -1,0 +1,10 @@
+/home/trash/robot_ws/build/robot_core/CMakeFiles/uninstall.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/robot_core_uninstall.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/odom_node.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/test.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/edit_cache.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/rebuild_cache.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/list_install_components.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/install.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/install/local.dir
+/home/trash/robot_ws/build/robot_core/CMakeFiles/install/strip.dir

@@ -1,0 +1,64 @@
+[0.024s] Invoking command in '/home/trash/robot_ws/build/robot_core': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/trash/robot_ws/src/robot_core -DCMAKE_INSTALL_PREFIX=/home/trash/robot_ws/install/robot_core
+[0.162s] -- The C compiler identification is GNU 13.3.0
+[0.269s] -- The CXX compiler identification is GNU 13.3.0
+[0.298s] -- Detecting C compiler ABI info
+[0.486s] -- Detecting C compiler ABI info - done
+[0.504s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.504s] -- Detecting C compile features
+[0.505s] -- Detecting C compile features - done
+[0.525s] -- Detecting CXX compiler ABI info
+[0.734s] -- Detecting CXX compiler ABI info - done
+[0.751s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.752s] -- Detecting CXX compile features
+[0.753s] -- Detecting CXX compile features - done
+[0.762s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.042s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.274s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.391s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.428s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.463s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.500s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.697s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.709s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.900s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.941s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.985s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.171s] -- Found nav_msgs: 5.3.6 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[2.309s] -- Found tf2_ros: 0.36.16 (/opt/ros/jazzy/share/tf2_ros/cmake)
+[2.635s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.853s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.853s] -- Configured cppcheck include dirs: 
+[2.853s] -- Configured cppcheck exclude dirs and/or files: 
+[2.855s] -- Added test 'lint_cmake' to check CMake code style
+[2.857s] -- Added test 'uncrustify' to check C / C++ code style
+[2.857s] -- Configured uncrustify additional arguments: 
+[2.858s] -- Added test 'xmllint' to check XML markup files
+[2.861s] -- Configuring done (2.8s)
+[2.882s] -- Generating done (0.0s)
+[2.888s] -- Build files have been written to: /home/trash/robot_ws/build/robot_core
+[2.914s] Invoked command in '/home/trash/robot_ws/build/robot_core' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/trash/robot_ws/src/robot_core -DCMAKE_INSTALL_PREFIX=/home/trash/robot_ws/install/robot_core
+[2.917s] Invoking command in '/home/trash/robot_ws/build/robot_core': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/trash/robot_ws/build/robot_core -- -j4 -l4
+[3.032s] [ 50%] [32mBuilding CXX object CMakeFiles/odom_node.dir/src/odom_node.cpp.o[0m
+[18.046s] [100%] [32m[1mLinking CXX executable odom_node[0m
+[19.300s] [100%] Built target odom_node
+[19.330s] Invoked command in '/home/trash/robot_ws/build/robot_core' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/trash/robot_ws/build/robot_core -- -j4 -l4
+[19.353s] Invoking command in '/home/trash/robot_ws/build/robot_core': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/trash/robot_ws/build/robot_core
+[19.370s] -- Install configuration: ""
+[19.370s] -- Installing: /home/trash/robot_ws/install/robot_core/lib/robot_core/odom_node
+[19.379s] -- Set non-toolchain portion of runtime path of "/home/trash/robot_ws/install/robot_core/lib/robot_core/odom_node" to ""
+[19.380s] -- Installing: /home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/package_run_dependencies/robot_core
+[19.380s] -- Installing: /home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/parent_prefix_path/robot_core
+[19.380s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/environment/ament_prefix_path.sh
+[19.380s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/environment/ament_prefix_path.dsv
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/environment/path.sh
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/environment/path.dsv
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.bash
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.sh
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.zsh
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.dsv
+[19.381s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/package.dsv
+[19.382s] -- Installing: /home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/packages/robot_core
+[19.382s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/cmake/robot_coreConfig.cmake
+[19.382s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/cmake/robot_coreConfig-version.cmake
+[19.382s] -- Installing: /home/trash/robot_ws/install/robot_core/share/robot_core/package.xml
+[19.385s] Invoked command in '/home/trash/robot_ws/build/robot_core' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/trash/robot_workspace/install/cylindrical_robot:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/trash/robot_ws/build/robot_core

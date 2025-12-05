@@ -1,0 +1,1 @@
+/home/trash/robot_ws/build/robot_core/ament_cmake_environment_hooks/local_setup.zsh

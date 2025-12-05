@@ -1,0 +1,16 @@
+/home/trash/robot_ws/install/robot_core/lib/robot_core/odom_node
+/home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/package_run_dependencies/robot_core
+/home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/parent_prefix_path/robot_core
+/home/trash/robot_ws/install/robot_core/share/robot_core/environment/ament_prefix_path.sh
+/home/trash/robot_ws/install/robot_core/share/robot_core/environment/ament_prefix_path.dsv
+/home/trash/robot_ws/install/robot_core/share/robot_core/environment/path.sh
+/home/trash/robot_ws/install/robot_core/share/robot_core/environment/path.dsv
+/home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.bash
+/home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.sh
+/home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.zsh
+/home/trash/robot_ws/install/robot_core/share/robot_core/local_setup.dsv
+/home/trash/robot_ws/install/robot_core/share/robot_core/package.dsv
+/home/trash/robot_ws/install/robot_core/share/ament_index/resource_index/packages/robot_core
+/home/trash/robot_ws/install/robot_core/share/robot_core/cmake/robot_coreConfig.cmake
+/home/trash/robot_ws/install/robot_core/share/robot_core/cmake/robot_coreConfig-version.cmake
+/home/trash/robot_ws/install/robot_core/share/robot_core/package.xml
